@@ -1,0 +1,8 @@
+{
+  "extends": "./node_modules/gts/",
+  "globals": {
+    "describe": "readonly",
+    "it": "readonly",
+    "expect": "readonly"
+  }
+}
